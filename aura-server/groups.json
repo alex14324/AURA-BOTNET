@@ -1,0 +1,25 @@
+{
+    "linux":
+        {
+            "root": 0,
+            "standard": 1
+        },
+
+    "windows 10":
+        {
+            "admin": 2,
+            "standard": 3
+        },
+
+    "windows 8":
+        {
+            "admin": 4,
+            "standard": 5
+        },
+
+    "windows 7":
+        {
+            "admin": 6,
+            "standard": 7
+        }
+}
